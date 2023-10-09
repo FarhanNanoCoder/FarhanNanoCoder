@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on @algosoftbd
 - 📫 How to reach me: farhan.shariar.094@gmail.com
 
 [![](https://visitcount.itsvg.in/api?id=FarhanNanoCoder&icon=8&color=6)](https://visitcount.itsvg.in)
